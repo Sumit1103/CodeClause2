@@ -1,7 +1,4 @@
-<p>Code Clause Internship <br>
-    Project 02 - Basic Online Resume Maker.&lt;/p&gt;</code>
-  </td>
-  <td>
-    <p>Tools used - HTML, CSS, JS.<br /></p>
-  </td>
-</tr>
+# CodeClause Internship Task <br>
+Task 1 : BAsic Online Resume Maker <br>
+Languages Used - HTML, CSS, JS <br>
+Tools Used - VS Code, Chrome <br>
